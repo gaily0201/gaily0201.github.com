@@ -2,7 +2,7 @@
 layout: page
 title: 我的文章
 tagline: my articles
-
+---
 
 <ul class="posts">
   {% for post in site.posts %}
